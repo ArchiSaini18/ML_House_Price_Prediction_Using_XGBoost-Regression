@@ -95,8 +95,7 @@ These visualizations help interpret the drivers behind housing prices.
 
 ## 🧭 Workflow
 House Price Data
-
-        ↓
+       ↓
         
 Data Preprocessing
 
