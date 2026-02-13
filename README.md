@@ -95,19 +95,33 @@ These visualizations help interpret the drivers behind housing prices.
 
 ## 🧭 Workflow
 House Price Data
+
         ↓
+        
 Data Preprocessing
+
         ↓
+        
 Exploratory Data Analysis
+
         ↓
+        
 Train-Test Split
+
         ↓
+        
 XGBoost Regressor
+
         ↓
+        
 Evaluation (MAE, R²)
+
         ↓
+        
 Visualization
+
         ↓
+        
 Streamlit Web App Deployment
 
 ## 💻 Streamlit Web Application
